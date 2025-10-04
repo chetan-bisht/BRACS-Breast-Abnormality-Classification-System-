@@ -1,0 +1,11 @@
+CLASSIFICATION REPORT
+========================================
+               precision    recall  f1-score   support
+
+calcification       0.81      0.86      0.83       269
+         mass       0.89      0.82      0.85       341
+       normal       0.99      1.00      0.99       596
+
+     accuracy                           0.92      1206
+    macro avg       0.89      0.89      0.89      1206
+ weighted avg       0.92      0.92      0.92      1206
