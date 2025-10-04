@@ -250,7 +250,7 @@ Temporary Items
 
 # Machine Learning / Data Science specific
 # Ignore large model files if they are regenerated (uncomment if applicable)
-# *.h5
+*.h5
 # *.pkl
 # *.joblib
 # data/  # If you have a data directory with large datasets
