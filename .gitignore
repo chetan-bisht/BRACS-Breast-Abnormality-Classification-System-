@@ -263,3 +263,18 @@ Temporary Items
 # Logs
 *.log
 logs/
+
+# Virtual environment
+venv/
+.env/
+
+# Model weights and large binaries
+*.h5
+*.pkl
+*.pt
+*.ckpt
+*.pkl
+*.zip
+*.tar.gz
+*.npy
+*.npz
